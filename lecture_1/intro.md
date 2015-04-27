@@ -27,4 +27,19 @@ Later topics are focused on filling in everything that isn't immediately necessa
 
 ### But first...
 
-We need to talk about what open source actually is.
+We need to talk about what open source actually is. What do you think the term "open-source" means?
+
+##### FLOSS
+
+* FLOSS (Free, Libre, Open-Source Software) is seen as 
+    * Free as in beer (it doesn't cost money)
+    * Free as in freedom (you can examine it, change it, redistribute it, and redistribute your changed versions - the so-called [four freedoms](https://www.gnu.org/philosophy/free-sw.html))
+
+##### Some people have differing views on open source software
+
+* OSI (Open Source Initiative) and FSF (Free Software Foundation)
+* Linus Torvalds and Richard Stallman
+* Many of these arguments are from clashes of ideology, practicality, and convenience. Here are some contentions in the open source software world:
+    * Open source software as a business
+    * Requiring all software that interacts with your software to also be open source software 
+

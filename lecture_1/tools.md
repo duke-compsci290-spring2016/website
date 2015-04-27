@@ -55,3 +55,6 @@
 * In order to actually change the program, you need the source code
 * This binary can be of a different form if other languages are used - for example, Java binaries require a Java Virtual Machine
 
+##### Further reading (not required)
+
+* How Linux Works, Second Edition - chapters 1 (The big picture), 14 (A brief survey of the Linux desktop)
