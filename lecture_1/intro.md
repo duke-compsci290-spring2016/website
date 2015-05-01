@@ -43,3 +43,6 @@ We need to talk about what open source actually is. What do you think the term "
     * Open source software as a business
     * Requiring all software that interacts with your software to also be open source software 
 
+##### Homework before next class
+
+* Install an IRC client (such as xchat) - more info [here](https://en.wikipedia.org/wiki/Internet_Relay_Chat)

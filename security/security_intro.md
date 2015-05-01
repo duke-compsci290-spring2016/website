@@ -21,6 +21,12 @@
 * Problem: malicious contributors can submit intentional bugs
     * This is not a theoretical problem - [link](http://www.infoq.com/news/2013/10/Linux-Backdoor)
 
+##### How to report a security bug
+
+* If you find a major security bug in a piece of software, first go through the normal steps of trying to verify that it is a bug, that it has not already been reported, etc
+* It's usually good etiquette to email the maintainers in private first, so that they have a chance to fix the bug before others can exploit it. This helps avoid [zero-day vulnerabilities](https://en.wikipedia.org/wiki/Zero-day_attack)
+* If maintainers are unresponsive, revealing the bug may be the only way to force a fix
+
 ##### Security through openness vs security through obscurity
 
 * Security through openness: allowing everyone to see and use the software will make sure bugs are found and fixed
