@@ -33,7 +33,7 @@
 * Most distributions are intended to be run out of the box - by downloading a disk image and installing it just as you would install Windows
 
 * The software that is included is determined by the leaders of the distribution, who can also customize much of it
-* This means that if you need to install a piece of software you usually download it from a repository owned by the distribution owners
+* This means that if you need to install a piece of software you usually download it from a repository curated by the distribution owners
 * Unlike the classic way of installing OSX or Windows applications, most distributions let you install a piece of software with a simple command
     * On Debian/Ubuntu: `sudo apt-get install python` to install python
     * sudo - run with super-user privileges
