@@ -1,5 +1,7 @@
 ## Linux command line
 
+* How Linux Works, chapter 2
+
 ##### The parts
 
 * The terminal is the GUI of the command line - the window it's contained in. One common terminal is gnome-terminal, though they are mostly interchangeable
@@ -38,4 +40,15 @@
 * `tar -xf [file]` - extract tar file (the `x` stands for extract). Note that including the `z` option extracts files from a gzipped (or compressed) archive.
 * `tar -cf [filename] [files to include]` - create tar file with filename, including the files given (the `c` stands for create). The `z` option creates a gzipped compressed archive.
 
+##### Globbing
+
+* You can specify wildcards with your commands that will act on multiple files. The wildcard character is `*`.
+* For example, to remove all files in a directory, use `rm *`. To remove all files with names starting with `test_`, use `rm test_*`
+* This can be very dangerous, because you haven't written out exactly which files you are applying your actions on. Use with caution!
+
+##### The Bash command line is really powerful
+
+* The command line is based around composition - making small programs that can be combined to produce powerful effects.
+* This is where the concept of streams comes in. Calling `diff [file1] [file2] | wc -l` uses the Unix pipe syntax to pipe a stream of data from the diff command to the wordcount command. This particular command gives the number of lines in the diff of two files. (See How Linux Works, chapter 2)
+* [More here on how powerful the shell is](http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/)
 
