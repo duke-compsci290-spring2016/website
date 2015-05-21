@@ -14,8 +14,14 @@
 - you will likely have to customize it in order for it to be useful to you
 
 ##### Articles 
+
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 - [Vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html) - run `vimtutor` inside your shell for an interactive demo
+
+##### Absolute need-to-knows
+
+In order to quit, type `:q`, to save, `:w`, to save and quit, `:wq`. The `:` brings up a kind of command line. The main movement keys are not the arrow keys, but `hjkk`. 
+Really, run `vimtutor` if you want to know how to use vim.
 
 ##### Quick tutorial
 
